@@ -7,8 +7,8 @@ Tôi là một lập trình viên mới bắt đầu, đang theo đuổi con đ�
 - Tôi dang học React cùng với hệ sinh thái xung quanh nó gồm Typescript, Zustard và TailwindCSS
 - Liên hệ tôi tại: tu.hoanggia.phuc@outlook.com.vn
 
-## Techstack
-<p align="left">
+## Công nghệ sử dụng
+<p align="center">
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50" alt="JavaScript" />
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1280px-Typescript.svg.png" width="50" height="50" alt="TypeScript" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZoHXu9r19UIOR3pcOGGZnRQbaWkpMV3Cn9X38zIkUyg&s=10" width="50" height="50" alt="React" />
