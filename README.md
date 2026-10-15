@@ -1,10 +1,10 @@
-# Xin chào, tôi tên là Từ Hoàng Gia Phúc
+# Xin chào, Tên tôi là Từ Hoàng Gia Phúc
 
-Tôi là một lập trình viên mới bắt đầu, đang theo đuổi con đường Frontend Developer 
+Tôi là người mới bắt đầu, đang trên con đường học tập để trở thành một Frontend Developer 
 
 ## Về tôi
-- Tôi hiện đang học tập tại [Trường Đại Học Hoa Sen](https://www.hoasen.edu.vn/) với ngành CNTT
-- Tôi dang học React cùng với hệ sinh thái xung quanh nó gồm Typescript, Zustard và TailwindCSS
+- Tôi hiện đang học tập tại [Trường Đại Học Hoa Sen](https://www.hoasen.edu.vn/) ngành CNTT
+- Tôi dang học React cùng với hệ sinh thái xung quanh như Typescript, Zustard và TailwindCSS
 - Liên hệ tôi tại: tu.hoanggia.phuc@outlook.com.vn
 
 ## Công nghệ sử dụng
@@ -16,7 +16,7 @@ Tôi là một lập trình viên mới bắt đầu, đang theo đuổi con đ�
   <img src="https://www.findarticles.com/wp-content/uploads/2026/02/supabase_edited_1772254874.png" width="50" height="50" alt="Supabase" />
 </p>
 
-## Github Stats
+## Chỉ số Github
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giaphuc060405&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaphuc060405&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
