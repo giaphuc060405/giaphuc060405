@@ -16,5 +16,7 @@ Tôi là một lập trình viên mới bắt đầu, đang theo đuổi con đ�
 </p>
 
 ## Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giaphuc060405&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giaphuc060405&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giaphuc060405&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaphuc060405&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+</p>
