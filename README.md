@@ -12,6 +12,7 @@ Tôi là một lập trình viên mới bắt đầu, đang theo đuổi con đ�
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50" alt="JavaScript" />
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1280px-Typescript.svg.png" width="50" height="50" alt="TypeScript" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZoHXu9r19UIOR3pcOGGZnRQbaWkpMV3Cn9X38zIkUyg&s=10" width="50" height="50" alt="React" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIdpmAM4l6ifTIFwCPjaMBsFJnY6otNl5FFbW2RpLmHh9APqc4-tZ23Y&s=10" width="50" height="50" alt="TailwindCSS" />
   <img src="https://www.findarticles.com/wp-content/uploads/2026/02/supabase_edited_1772254874.png" width="50" height="50" alt="Supabase" />
 </p>
 
