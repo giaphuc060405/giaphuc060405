@@ -18,6 +18,6 @@ Tôi là người mới bắt đầu, đang trên con đường học tập đ�
 
 ## Chỉ số Github
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giaphuc060405&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaphuc060405&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=giaphuc060405&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=giaphuc060405&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
